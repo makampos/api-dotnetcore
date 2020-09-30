@@ -16,3 +16,10 @@ D:\DEV__\api-dotnetcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.Assembly
 D:\DEV__\api-dotnetcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 D:\DEV__\api-dotnetcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 D:\DEV__\api-dotnetcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\DEV__\api-dotnetcore\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\DEV__\api-dotnetcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\DEV__\api-dotnetcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\DEV__\api-dotnetcore\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\DEV__\api-dotnetcore\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\DEV__\api-dotnetcore\src\Api.Service\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\DEV__\api-dotnetcore\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
